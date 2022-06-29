@@ -1,0 +1,11 @@
+{
+    "name": "Gold Guaranteed Coin Mining",
+    "type": "BEP20",
+    "symbol": "GGCM",
+    "decimals": 18,
+    "website": "https://ggcm.io/",
+    "description": "Our vision is to create an army of clever and enterprising investors & ensure that each one of our investors will become a natural resource owner in one of the world’s top mining destinations. ",
+    "explorer": "https://bscscan.com/token/0xe5431bcf8769FCc7F2F3dBDd93300B9696747C4c",
+    "status": "active",
+    "id": "0xe5431bcf8769FCc7F2F3dBDd93300B9696747C4c"
+}
